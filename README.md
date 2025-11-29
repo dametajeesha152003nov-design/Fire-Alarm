@@ -1,1 +1,2 @@
 # Fire-Alarm
+Working principle: If there is any fire, the IR LED (Receiver ) sense the infrared radiation emitted from the fire and gives a positive pulse to the base of  BC547( NPN ) transistor. Then the transistor turns on and current can flow from collector to emitter. When the transistor turns on, the dc buzzer and LED connected with the collector of the transistor also turns on. Thus we can detect any fire nearby
